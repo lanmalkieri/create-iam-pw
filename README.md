@@ -1,4 +1,4 @@
-#create-iam-pw
+# create-iam-pw
 
 This simple bash script is designed at making peoples lives easier who don't have full blown SSO but still manage lots of users in IAM that require Console access. 
 
